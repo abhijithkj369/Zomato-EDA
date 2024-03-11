@@ -6,7 +6,7 @@
 This project involves the exploratory data analysis (EDA) of Zomato data to gain insights into restaurant trends, customer preferences, and other relevant information.
 
 ## Table of Contents
-- [Project Overview](#overview)
+- [Project Overview](#This project delves into the world of Zomato, a leading online restaurant discovery and food delivery platform. Leveraging exploratory data analysis (EDA) techniques, we aim to uncover valuable insights into the diverse landscape of restaurants, customer preferences, and culinary trends. The dataset, sourced from Zomato's API, serves as the foundation for our investigation, with a focus on geographic distribution, customer ratings, cuisine popularity, the impact of price ranges, and the identification of top-rated establishments. By employing Python, Jupyter Notebooks, and key data analysis libraries, we embark on a journey to unravel the nuances of Zomato's rich data, presenting our findings through meaningful visualizations and analyses.)
 - [Dataset](#dataset)
 - [Features](#features)
 - [Files and Directories](#files-and-directories)
