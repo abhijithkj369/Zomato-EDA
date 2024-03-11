@@ -21,7 +21,7 @@ The dataset used for this project is sourced from Zomato's API, providing inform
 
 
 ## Installation
- Clone this repository: `git clone https://github.com/your-username/zomato-eda.git`
+ Clone this repository: `https://github.com/abhijithkj369/Zomato-EDA.git`
 
 
 ## Exploratory Data Analysis
